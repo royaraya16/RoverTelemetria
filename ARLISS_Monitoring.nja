@@ -1,0 +1,26 @@
+{
+  "mainFile": "", 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "ARLISS Monitoring", 
+  "license": "GNU General Public License v3", 
+  "url": "", 
+  "pythonPath": "python", 
+  "preExecScript": "", 
+  "programParams": "", 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": "A small Python GUI for monitoring a small rover, using wxPython, Matplotlib and pyserial"
+}
